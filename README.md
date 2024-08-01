@@ -1,9 +1,10 @@
 ### Boas vindas ao meu perfil 💙
 
 Meu nome é Wilton
-- Estou interessado em projetos:
-- Programação Python
-- Lean Manufacturing
+- Estou interessado em:
+ - Programação Python
+ - Segurança da Informação
+ - Lean Manufacturing
 
 
 <!---
