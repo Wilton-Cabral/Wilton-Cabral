@@ -1,11 +1,17 @@
 ### Boas vindas ao meu perfil 💙
 
 Meu nome é Wilton
-- Estou interessado em:
- - Programação Python
+- Estou desenvolvendo em:
+ - Linguagem  Python
+ - Linguagem Javascrip
  - Segurança da Informação
  - Lean Manufacturing
 
+### Você entra em contato 📧 
+
+willwand@gmail.com
+
+![](https://media.tenor.com/FUPAM32pcXEAAAAM/waves.gif)
 
 <!---
 Wilton-Cabral/Wilton-Cabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
