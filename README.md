@@ -5,6 +5,7 @@ Meu nome é Wilton
  - Linguagem Python
  - Linguagem Javascrip
  - Data science
+ - linguagem jupyter
  - Segurança da Informação
  - Lean Manufacturing
 
