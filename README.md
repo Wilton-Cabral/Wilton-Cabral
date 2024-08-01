@@ -1,6 +1,7 @@
 ### Boas vindas ao meu perfil 💙
-- 👋 Hi, I’m @Wilton-Cabral
-- 👀 I’m interested in Python 
+
+Meu nome é Wilton
+- Estou interessado em Python
 - 🌱 I’m currently learning Projects
 - 💞️ I’m looking to collaborate on Lean job
 - 📫 How to reach me ...
