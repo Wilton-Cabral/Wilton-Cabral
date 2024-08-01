@@ -2,8 +2,8 @@
 
 Meu nome é Wilton
 - Estou interessado em projetos:
--  Python
--  Lean Manufacturing
+- Programação Python
+- Lean Manufacturing
 
 
 <!---
