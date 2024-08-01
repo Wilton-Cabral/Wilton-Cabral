@@ -1,4 +1,4 @@
-*** Boas vindas ao meu perfil 💙
+### Boas vindas ao meu perfil 💙
 - 👋 Hi, I’m @Wilton-Cabral
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Projects
