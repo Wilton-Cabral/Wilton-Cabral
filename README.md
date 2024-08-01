@@ -1,10 +1,10 @@
 ### Boas vindas ao meu perfil 💙
 
 Meu nome é Wilton
-- Estou interessado em Python
-- 🌱 I’m currently learning Projects
-- 💞️ I’m looking to collaborate on Lean job
-- 📫 How to reach me ...
+- Estou interessado em projetos:
+-  Python
+-  Lean Manufacturing
+
 
 <!---
 Wilton-Cabral/Wilton-Cabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
