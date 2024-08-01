@@ -4,6 +4,7 @@ Meu nome é Wilton
 - Estou me desenvolvendo em:
  - Linguagem Python
  - Linguagem Javascrip
+ - Data science
  - Segurança da Informação
  - Lean Manufacturing
 
