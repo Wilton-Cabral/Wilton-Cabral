@@ -1,8 +1,8 @@
 ### Boas vindas ao meu perfil 💙
 
 Meu nome é Wilton
-- Estou desenvolvendo em:
- - Linguagem  Python
+- Estou me desenvolvendo em:
+ - Linguagem Python
  - Linguagem Javascrip
  - Segurança da Informação
  - Lean Manufacturing
