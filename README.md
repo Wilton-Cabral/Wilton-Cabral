@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 💙
+## Sejam bem vindos ao meu perfil 💙
 
 Meu nome é Wilton
 - Estou me desenvolvendo em:
@@ -9,9 +9,17 @@ Meu nome é Wilton
  - Segurança da Informação
  - Lean Manufacturing
 
-### Você entra em contato 📧 
+### você pode entrar em contato comigo 📧
 
 willwand@gmail.com
+
+[@wilton](https://x.com/wiltoncabral)
+
+[Blog do Wilton](https://wilton01.blogspot.com/)
+
+![](https://media.tenor.com/FUPAM32pcXEAAAAM/waves.gif) 
+
+![](https://media.tenor.com/g9WRGLK3JSwAAAAM/dog-happy-dog.gif)
 
 ![](https://media.tenor.com/FUPAM32pcXEAAAAM/waves.gif)
 
