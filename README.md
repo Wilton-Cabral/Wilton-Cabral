@@ -21,7 +21,6 @@ willwand@gmail.com
 
 ![](https://media.tenor.com/g9WRGLK3JSwAAAAM/dog-happy-dog.gif)
 
-![](https://media.tenor.com/FUPAM32pcXEAAAAM/waves.gif)
 
 <!---
 Wilton-Cabral/Wilton-Cabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
