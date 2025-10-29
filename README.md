@@ -3,11 +3,11 @@
 Meu nome é Wilton
 - Estou me desenvolvendo em:
  - Linguagem Python
- - Linguagem Javascrip
+ - Linguagem Javascript
  - Data science
- - Edieores jupyter e VScode
+ - Editores Jupyter e VScode
  - Segurança da Informação
- - Lean Manufacturing
+
 
 ### você pode entrar em contato comigo 📧
 
