@@ -4,8 +4,9 @@ Meu nome é Wilton
 - Estou me desenvolvendo em:
  - Linguagem Python
  - Linguagem Javascript
+ - Linguagem CSS
+ - Linguagem HTML
  - Data science
- - Editores Jupyter e VScode
  - Segurança da Informação
 
 
